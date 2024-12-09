@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm POORANI</h1>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="POORANI" />
+  <img src="https://github.com/POORANI4402/POORANI4402/blob/main/name.svg" alt="POORANI" />
 </h1>
 
 <h3 align="center">A passionate Full stack Developer</h3>
