@@ -22,7 +22,7 @@
 </p>
 
 <h3>My Resume 👇🏻</h3>
-<img src="https://github.com/muskanrani/muskanrani/blob/master/qrcode_muskanrani.github.io.png"  style="width: 20%" />
+<img src="https://github.com/POORANI4402/POORANI4402/blob/main/MY_RESUME_QR_CODE.png"  style="width: 20%" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
