@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm POORANI <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></img>
 </h1>
 
-<h3 align="center">Aspiring DATA ANALYST and FULL STACK DEVELOPER <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<h3 align="center">Aspiring DATA SCIENTIST<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 </h3>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
